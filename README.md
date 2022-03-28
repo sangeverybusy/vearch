@@ -1,3 +1,5 @@
+#### 中文文档：https://vearch.readthedocs.io/zh_CN/latest/
+
 <div align="center">
   <img src="docs/img/vearch_logo.png">
 </div>
